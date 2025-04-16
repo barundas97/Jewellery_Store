@@ -1,4 +1,4 @@
-# Jewlery Store
+# Jewellery Store
 
 A modern web application for showcasing a jewelry store. This project demonstrates my ability to design and develop a professional, visually appealing, and user-friendly web application.
 
