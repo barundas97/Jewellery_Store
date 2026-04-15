@@ -61,6 +61,6 @@ This project is intended for **showcasing purposes only**. Unauthorized copying,
 ## Author
 
 - **Name**: Barun Das
-- **LinkedIn**: [Barun Das](https://www.linkedin.com/in/barun-das-97bd/)
+- **LinkedIn**: [Barun Das](https://www.linkedin.com/in/barun-das-a37a7114b/)
 
 ---
